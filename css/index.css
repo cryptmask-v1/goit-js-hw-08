@@ -1,0 +1,21 @@
+.cryptmask {
+  font-family: "Doto", sans-serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  margin: auto;
+  gap: 24px;
+}
+.gallery-image {
+  width: 360px;
+  height: 200px;
+  cursor: zoom-in;
+}
